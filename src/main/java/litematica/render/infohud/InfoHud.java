@@ -202,7 +202,7 @@ public class InfoHud
 
     protected boolean shouldRender()
     {
-        return this.enabled;
+        return false;
     }
 
     protected HudAlignment getHudAlignment()
